@@ -5,7 +5,13 @@ export default function GamesStats({ autofill=true, showPerCategory=true }) {
   const [data, setData] = React.useState(null);
 
   React.useEffect(() => {
-    fetch('/api/games/stats').then(r=>r.json()).then(setData);
+    fetch('/api/games/stats')
+      .then(r => r.json())
+      .then(data => {
+        console.log('Stats API response:', data);
+        setData(data);
+      })
+      .catch(err => console.error('Failed to fetch stats:', err));
   }, []);
 
   React.useEffect(() => {
@@ -16,8 +22,11 @@ export default function GamesStats({ autofill=true, showPerCategory=true }) {
       premium: data.totals?.premium ?? 0,
       extreme: data.totals?.extreme ?? 0
     };
+    console.log('Auto-filling stats:', map);
     Object.entries(map).forEach(([k,v]) => {
-      document.querySelectorAll(`[data-stat="${k}"]`).forEach(el => { el.textContent = String(v); });
+      const elements = document.querySelectorAll(`[data-stat="${k}"]`);
+      console.log(`Found ${elements.length} elements for data-stat="${k}"`);
+      elements.forEach(el => { el.textContent = String(v); });
     });
   }, [data, autofill]);
 
