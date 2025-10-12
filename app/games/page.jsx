@@ -63,7 +63,7 @@ export default function GamesHub() {
                 <Gamepad2 className="w-8 h-8 text-blue-600" />
                 CRAudioVizAI Games
               </h1>
-              <p className="text-gray-600 mt-1">25+ micro-games plus exclusive Extreme challenges</p>
+              <p className="text-gray-600 mt-1">75 games plus 50+ challenging add-ons and exclusive Extreme challenges</p>
             </div>
             <div className="flex items-center gap-2">
               <Button
