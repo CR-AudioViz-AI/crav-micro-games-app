@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Check, Crown, Star, Zap, Home, CreditCard } from 'lucide-react';
+import { Check, Crown, Star, Zap, Chrome as Home, CreditCard } from 'lucide-react';
 import { PRODUCTS, PLAN_FEATURES } from '@/lib/pricing';
 import { metrics } from '@/lib/metrics';
 import { createUserSession } from '@/lib/entitlements';

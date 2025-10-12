@@ -5,18 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { 
-  Settings, 
-  BarChart3, 
-  Users, 
-  Trophy, 
-  Crown, 
-  Play, 
-  Eye,
-  EyeOff,
-  TrendingUp,
-  Calendar
-} from 'lucide-react';
+import { Settings, ChartBar as BarChart3, Users, Trophy, Crown, Play, Eye, EyeOff, TrendingUp, Calendar } from 'lucide-react';
 import { GAMES, EXTREME_GAME } from '@/lib/games';
 import { FEATURE_FLAGS } from '@/lib/feature-flags';
 import { createUserSession } from '@/lib/entitlements';

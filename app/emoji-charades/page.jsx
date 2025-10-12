@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Progress } from '@/components/ui/progress';
-import { Clock, Star, Trophy, Home, RotateCcw } from 'lucide-react';
+import { Clock, Star, Trophy, Chrome as Home, RotateCcw } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
 import { createUserSession } from '@/lib/entitlements';
 import AdSlot from '@/components/games/AdSlot';
