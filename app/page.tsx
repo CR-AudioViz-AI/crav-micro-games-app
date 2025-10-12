@@ -32,11 +32,11 @@ export default function Home() {
                 <Play className="w-5 h-5 mr-2" />
                 Play All <span data-stat="total">262</span> Games
               </Button>
-              <Button 
-                size="lg" 
+              <Button
+                size="lg"
                 variant="outline"
                 onClick={() => window.location.href = '/pricing'}
-                className="border-white text-white hover:bg-white hover:text-blue-600 text-lg px-8 py-3"
+                className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-blue-600 text-lg px-8 py-3"
               >
                 <Crown className="w-5 h-5 mr-2" />
                 View Plans
