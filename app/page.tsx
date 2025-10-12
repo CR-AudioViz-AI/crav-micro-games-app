@@ -5,6 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Play, Crown, Star, Gamepad2, Users, Trophy, Zap } from 'lucide-react';
 import AdSlot from '@/components/games/AdSlot';
+import GamesStats from '@/components/games/GamesStats';
 
 export default function Home() {
   return (
@@ -19,17 +20,17 @@ export default function Home() {
               <h1 className="text-5xl font-bold">CRAudioVizAI Games</h1>
             </div>
             <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              25+ micro-games, premium challenges, and exclusive Extreme modes. 
+              <span data-stat="total">262</span> micro-games, premium challenges, and exclusive Extreme modes.
               Play for free or upgrade for the ultimate gaming experience.
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4">
-              <Button 
-                size="lg" 
+              <Button
+                size="lg"
                 onClick={() => window.location.href = '/games'}
                 className="bg-white text-blue-600 hover:bg-blue-50 text-lg px-8 py-3"
               >
                 <Play className="w-5 h-5 mr-2" />
-                Play Now - Free
+                Play All <span data-stat="total">262</span> Games
               </Button>
               <Button 
                 size="lg" 
@@ -46,6 +47,10 @@ export default function Home() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 py-16">
+        {/* Hidden GamesStats component for auto-fill */}
+        <div className="hidden">
+          <GamesStats autofill showPerCategory={false} />
+        </div>
         {/* Features Grid */}
         <div className="grid md:grid-cols-3 gap-8 mb-16">
           <Card className="text-center">
@@ -57,7 +62,7 @@ export default function Home() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Play 15+ games completely free, no account required. Perfect for quick entertainment.
+                Play <span data-stat="alwaysFree">262</span> games completely free, no account required. Perfect for quick entertainment.
               </p>
             </CardContent>
           </Card>
@@ -71,7 +76,7 @@ export default function Home() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Unlock advanced features, global leaderboards, and exclusive game modes with Pro.
+                Unlock advanced features, global leaderboards, and exclusive game modes. <span data-stat="premium">262</span> premium-capable games.
               </p>
             </CardContent>
           </Card>
@@ -85,7 +90,7 @@ export default function Home() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">
-                Elite members get access to season-based Extreme games with events and exclusive content.
+                <span data-stat="extreme">1</span> Extreme games available with events and exclusive content for Elite members.
               </p>
             </CardContent>
           </Card>
@@ -124,19 +129,19 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-center mb-8">By the Numbers</h2>
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">25+</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2" data-stat="total">262</div>
               <div className="text-gray-600">Total Games</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-green-600 mb-2">15+</div>
+              <div className="text-4xl font-bold text-green-600 mb-2" data-stat="alwaysFree">262</div>
               <div className="text-gray-600">Always Free</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-purple-600 mb-2">10+</div>
+              <div className="text-4xl font-bold text-purple-600 mb-2" data-stat="premium">262</div>
               <div className="text-gray-600">Premium Games</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-orange-600 mb-2">1</div>
+              <div className="text-4xl font-bold text-orange-600 mb-2" data-stat="extreme">1</div>
               <div className="text-gray-600">Extreme Challenge</div>
             </div>
           </div>
@@ -149,13 +154,13 @@ export default function Home() {
             Start with free games or upgrade for the complete experience
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
-            <Button 
+            <Button
               size="lg"
               onClick={() => window.location.href = '/games'}
               className="text-lg px-8 py-3"
             >
               <Play className="w-5 h-5 mr-2" />
-              Browse All Games
+              Browse All <span data-stat="total">262</span> Games
             </Button>
             <Button 
               size="lg"
