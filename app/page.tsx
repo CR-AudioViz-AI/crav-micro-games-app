@@ -92,7 +92,7 @@ export default function Home() {
         </div>
 
         {/* Ad Slot */}
-        <AdSlot position="banner" className="mb-16" />
+        <AdSlot id="banner" className="mb-16" />
 
         {/* Game Categories Preview */}
         <div className="mb-16">
