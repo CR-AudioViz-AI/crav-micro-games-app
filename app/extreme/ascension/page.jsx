@@ -7,7 +7,7 @@ import { Badge } from '@/components/ui/badge';
 import { Progress } from '@/components/ui/progress';
 import { Crown, Zap, Trophy, Chrome as Home, RotateCcw, Target, Clock, Star } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
-import { createUserSession, canAccessExtremeGame } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
 import PaywallGate from '@/components/games/PaywallGate';
@@ -25,7 +25,7 @@ const ZONES = [
 ];
 
 export default function Ascension() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [gameState, setGameState] = useState('menu');
   const [currentZone, setCurrentZone] = useState(0);
   const [level, setLevel] = useState(1);
@@ -38,7 +38,7 @@ export default function Ascension() {
   const [isMoving, setIsMoving] = useState(false);
   const [seasonPass, setSeasonPass] = useState(false);
 
-  const canPlay = canAccessExtremeGame(userSession);
+  const canPlay = userSession.plan === 'ELITE' || userSession.plan === 'PRO';
   const zone = ZONES[currentZone];
 
   useEffect(() => {

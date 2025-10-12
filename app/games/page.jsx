@@ -9,7 +9,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Search, Filter, Star, Crown, Play, Gamepad2 } from 'lucide-react';
 import { GAMES, EXTREME_GAME } from '@/lib/games';
-import { createUserSession } from '@/lib/entitlements';
+
 import GameCard from '@/components/games/GameCard';
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
@@ -21,7 +21,7 @@ export default function GamesHub() {
   const [searchTerm, setSearchTerm] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('all');
   const [difficultyFilter, setDifficultyFilter] = useState('all');
-  const [userSession, setUserSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
 
   useEffect(() => {
     console.log('Total games loaded:', GAMES.length);

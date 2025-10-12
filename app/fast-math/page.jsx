@@ -8,7 +8,7 @@ import { Badge } from '@/components/ui/badge';
 import { Progress } from '@/components/ui/progress';
 import { Clock, Star, Trophy, Chrome as Home, RotateCcw, Zap } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
-import { createUserSession } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
 import PaywallGate from '@/components/games/PaywallGate';
@@ -61,7 +61,7 @@ const generateProblem = (difficulty = 'easy') => {
 };
 
 export default function FastMath() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [gameState, setGameState] = useState('menu');
   const [currentProblem, setCurrentProblem] = useState(null);
   const [score, setScore] = useState(0);

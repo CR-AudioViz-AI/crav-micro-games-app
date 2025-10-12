@@ -1,0 +1,2 @@
+/api/webhooks/*
+  Content-Type: application/json

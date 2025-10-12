@@ -8,10 +8,10 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Settings, ChartBar as BarChart3, Users, Trophy, Crown, Play, Eye, EyeOff, TrendingUp, Calendar } from 'lucide-react';
 import { GAMES, EXTREME_GAME } from '@/lib/games';
 import { FEATURE_FLAGS } from '@/lib/feature-flags';
-import { createUserSession } from '@/lib/entitlements';
+
 
 export default function GamesDashboard() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [games, setGames] = useState([...GAMES, EXTREME_GAME]);
   const [flags, setFlags] = useState(FEATURE_FLAGS);
   const [metrics, setMetrics] = useState({});

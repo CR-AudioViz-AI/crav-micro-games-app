@@ -7,12 +7,12 @@ import { Badge } from '@/components/ui/badge';
 import { Check, Crown, Star, Zap, Chrome as Home, CreditCard } from 'lucide-react';
 import { PRODUCTS, PLAN_FEATURES } from '@/lib/pricing';
 import { metrics } from '@/lib/metrics';
-import { createUserSession } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import { toast } from 'sonner';
 
 export default function Pricing() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [loading, setLoading] = useState(null);
 
   const handleUpgrade = async (productId, planName) => {

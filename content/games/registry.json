@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/json",
+  "motm": "fast-math",
+  "groups": [
+    {
+      "title": "Original 25",
+      "slugs": [
+        "emoji-charades","fast-math","word-snap","color-match","memory-flip",
+        "pixel-zoom","geo-quick","reaction-test","sound-bite","finish-quote",
+        "tap-race","emoji-bingo","riddle","micro-crossword","scramble-caption",
+        "sticker-toss","one-click-tag","post-a-pic","caption-this","quick-poll-duel",
+        "two-truths","trivia-blitz","would-you-rather","rps","reaction-streaks"
+      ]
+    },
+    {
+      "title": "Generated Challenges",
+      "slugs": []
+    }
+  ],
+  "hidden": [
+    "sound-bite"
+  ]
+}

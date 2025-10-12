@@ -7,7 +7,7 @@ import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Clock, Star, Trophy, Chrome as Home, RotateCcw } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
-import { createUserSession } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
 import PaywallGate from '@/components/games/PaywallGate';
@@ -31,7 +31,7 @@ const VALID_WORDS = {
 };
 
 export default function WordSnap() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [gameState, setGameState] = useState('menu');
   const [currentGrid, setCurrentGrid] = useState(0);
   const [score, setScore] = useState(0);

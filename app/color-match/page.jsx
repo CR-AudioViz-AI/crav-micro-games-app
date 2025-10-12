@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Clock, Star, Trophy, Chrome as Home, RotateCcw } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
-import { createUserSession } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
 import PaywallGate from '@/components/games/PaywallGate';
@@ -16,7 +16,7 @@ import { toast } from 'sonner';
 const COLORS = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A', '#98D8C8', '#F7DC6F', '#BB8FCE', '#85C1E2'];
 
 export default function ColorMatch() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [gameState, setGameState] = useState('menu');
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(30);

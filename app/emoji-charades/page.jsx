@@ -8,7 +8,7 @@ import { Badge } from '@/components/ui/badge';
 import { Progress } from '@/components/ui/progress';
 import { Clock, Star, Trophy, Chrome as Home, RotateCcw } from 'lucide-react';
 import { metrics } from '@/lib/metrics';
-import { createUserSession } from '@/lib/entitlements';
+
 import AdSlot from '@/components/games/AdSlot';
 import UpsellSidebar from '@/components/games/UpsellSidebar';
 import PaywallGate from '@/components/games/PaywallGate';
@@ -29,7 +29,7 @@ const EMOJI_PUZZLES = [
 ];
 
 export default function EmojiCharades() {
-  const [userSession] = useState(createUserSession());
+  const [userSession] = useState({ userId: null, plan: "FREE" });
   const [gameState, setGameState] = useState('menu'); // menu, playing, finished
   const [currentPuzzle, setCurrentPuzzle] = useState(0);
   const [score, setScore] = useState(0);
