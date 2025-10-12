@@ -104,13 +104,16 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-center mb-8">Game Categories</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { name: 'Puzzle Games', icon: '🧩', count: 6 },
-              { name: 'Brain Training', icon: '🧠', count: 5 },
-              { name: 'Word Games', icon: '📝', count: 4 },
-              { name: 'Reflex Games', icon: '⚡', count: 3 },
-              { name: 'Social Games', icon: '👥', count: 5 },
-              { name: 'Classic Games', icon: '🎯', count: 2 },
-              { name: 'Visual Games', icon: '👁️', count: 3 },
+              { name: 'Daily Challenges', icon: '🎯', count: 185 },
+              { name: 'Original Games', icon: '🎮', count: 41 },
+              { name: 'Word Games', icon: '📝', count: 9 },
+              { name: 'Reflex Games', icon: '⚡', count: 6 },
+              { name: 'Puzzle Games', icon: '🧩', count: 5 },
+              { name: 'Visual Games', icon: '👁️', count: 4 },
+              { name: 'Memory Games', icon: '🧠', count: 4 },
+              { name: 'Emoji Games', icon: '😊', count: 3 },
+              { name: 'Geography', icon: '🌍', count: 3 },
+              { name: 'Audio Games', icon: '🎵', count: 1 },
               { name: 'Extreme', icon: '🔥', count: 1 }
             ].map((category) => (
               <Card key={category.name} className="hover:shadow-lg transition-shadow cursor-pointer">
