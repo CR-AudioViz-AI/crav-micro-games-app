@@ -66,6 +66,13 @@ export default function GamesHub() {
               <p className="text-gray-600 mt-1">25+ micro-games plus exclusive Extreme challenges</p>
             </div>
             <div className="flex items-center gap-2">
+              <Button
+                variant="outline"
+                onClick={() => window.location.href = '/games-addons'}
+              >
+                <Star className="w-4 h-4 mr-2" />
+                50+ Add-Ons
+              </Button>
               <Badge variant="outline" className="text-sm">
                 Plan: {userSession.plan}
               </Badge>
