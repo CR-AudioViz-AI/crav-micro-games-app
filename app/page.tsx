@@ -1,3 +1,9 @@
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { Play, Crown, Star, Gamepad2, Users, Trophy, Zap } from 'lucide-react';
+import AdSlot from '@/components/games/AdSlot';
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
@@ -82,10 +88,10 @@ export default function Home() {
             </CardContent>
           </Card>
         </div>
-    </div>
+
         {/* Ad Slot */}
         <AdSlot position="banner" className="mb-16" />
-  );
+
         {/* Game Categories Preview */}
         <div className="mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">Game Categories</h2>
@@ -110,7 +116,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-}
+
         {/* Stats Section */}
         <div className="bg-gray-50 rounded-2xl p-8 mb-16">
           <h2 className="text-3xl font-bold text-center mb-8">By the Numbers</h2>
@@ -133,7 +139,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-import { Button } from '@/components/ui/button';
+
         {/* CTA Section */}
         <div className="text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Play?</h2>
@@ -161,7 +167,6 @@ import { Button } from '@/components/ui/button';
           </div>
         </div>
       </div>
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { Play, Crown, Star, Gamepad2, Users, Trophy, Zap } from 'lucide-react';
-import AdSlot from '@/components/games/AdSlot';
+    </div>
+  );
+}
