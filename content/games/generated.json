@@ -1,0 +1,1052 @@
+{
+  "auto": [
+    {
+      "slug": "anagram-gauntlet",
+      "title": "Anagram Gauntlet"
+    },
+    {
+      "slug": "blitz-draw",
+      "title": "Blitz Draw"
+    },
+    {
+      "slug": "bluff-tell",
+      "title": "Bluff Tell"
+    },
+    {
+      "slug": "bullet-weave",
+      "title": "Bullet Weave"
+    },
+    {
+      "slug": "caption-this",
+      "title": "Caption This"
+    },
+    {
+      "slug": "challenge-atlas-019",
+      "title": "Challenge Atlas 019"
+    },
+    {
+      "slug": "challenge-atlas-039",
+      "title": "Challenge Atlas 039"
+    },
+    {
+      "slug": "challenge-atlas-059",
+      "title": "Challenge Atlas 059"
+    },
+    {
+      "slug": "challenge-atlas-079",
+      "title": "Challenge Atlas 079"
+    },
+    {
+      "slug": "challenge-atlas-099",
+      "title": "Challenge Atlas 099"
+    },
+    {
+      "slug": "challenge-atlas-139",
+      "title": "Challenge Atlas 139"
+    },
+    {
+      "slug": "challenge-atlas-159",
+      "title": "Challenge Atlas 159"
+    },
+    {
+      "slug": "challenge-atlas-179",
+      "title": "Challenge Atlas 179"
+    },
+    {
+      "slug": "challenge-aurora-009",
+      "title": "Challenge Aurora 009"
+    },
+    {
+      "slug": "challenge-aurora-029",
+      "title": "Challenge Aurora 029"
+    },
+    {
+      "slug": "challenge-aurora-049",
+      "title": "Challenge Aurora 049"
+    },
+    {
+      "slug": "challenge-aurora-069",
+      "title": "Challenge Aurora 069"
+    },
+    {
+      "slug": "challenge-aurora-089",
+      "title": "Challenge Aurora 089"
+    },
+    {
+      "slug": "challenge-aurora-109",
+      "title": "Challenge Aurora 109"
+    },
+    {
+      "slug": "challenge-aurora-129",
+      "title": "Challenge Aurora 129"
+    },
+    {
+      "slug": "challenge-aurora-149",
+      "title": "Challenge Aurora 149"
+    },
+    {
+      "slug": "challenge-aurora-169",
+      "title": "Challenge Aurora 169"
+    },
+    {
+      "slug": "challenge-aurora-189",
+      "title": "Challenge Aurora 189"
+    },
+    {
+      "slug": "challenge-cipher-002",
+      "title": "Challenge Cipher 002"
+    },
+    {
+      "slug": "challenge-cipher-022",
+      "title": "Challenge Cipher 022"
+    },
+    {
+      "slug": "challenge-cipher-062",
+      "title": "Challenge Cipher 062"
+    },
+    {
+      "slug": "challenge-cipher-082",
+      "title": "Challenge Cipher 082"
+    },
+    {
+      "slug": "challenge-cipher-102",
+      "title": "Challenge Cipher 102"
+    },
+    {
+      "slug": "challenge-cipher-122",
+      "title": "Challenge Cipher 122"
+    },
+    {
+      "slug": "challenge-cipher-142",
+      "title": "Challenge Cipher 142"
+    },
+    {
+      "slug": "challenge-cipher-162",
+      "title": "Challenge Cipher 162"
+    },
+    {
+      "slug": "challenge-cipher-182",
+      "title": "Challenge Cipher 182"
+    },
+    {
+      "slug": "challenge-cobalt-012",
+      "title": "Challenge Cobalt 012"
+    },
+    {
+      "slug": "challenge-cobalt-032",
+      "title": "Challenge Cobalt 032"
+    },
+    {
+      "slug": "challenge-cobalt-052",
+      "title": "Challenge Cobalt 052"
+    },
+    {
+      "slug": "challenge-cobalt-072",
+      "title": "Challenge Cobalt 072"
+    },
+    {
+      "slug": "challenge-cobalt-092",
+      "title": "Challenge Cobalt 092"
+    },
+    {
+      "slug": "challenge-cobalt-112",
+      "title": "Challenge Cobalt 112"
+    },
+    {
+      "slug": "challenge-cobalt-132",
+      "title": "Challenge Cobalt 132"
+    },
+    {
+      "slug": "challenge-cobalt-152",
+      "title": "Challenge Cobalt 152"
+    },
+    {
+      "slug": "challenge-cobalt-192",
+      "title": "Challenge Cobalt 192"
+    },
+    {
+      "slug": "challenge-cosmic-014",
+      "title": "Challenge Cosmic 014"
+    },
+    {
+      "slug": "challenge-cosmic-034",
+      "title": "Challenge Cosmic 034"
+    },
+    {
+      "slug": "challenge-cosmic-054",
+      "title": "Challenge Cosmic 054"
+    },
+    {
+      "slug": "challenge-cosmic-074",
+      "title": "Challenge Cosmic 074"
+    },
+    {
+      "slug": "challenge-cosmic-094",
+      "title": "Challenge Cosmic 094"
+    },
+    {
+      "slug": "challenge-cosmic-134",
+      "title": "Challenge Cosmic 134"
+    },
+    {
+      "slug": "challenge-cosmic-154",
+      "title": "Challenge Cosmic 154"
+    },
+    {
+      "slug": "challenge-cosmic-174",
+      "title": "Challenge Cosmic 174"
+    },
+    {
+      "slug": "challenge-cosmic-194",
+      "title": "Challenge Cosmic 194"
+    },
+    {
+      "slug": "challenge-delta-015",
+      "title": "Challenge Delta 015"
+    },
+    {
+      "slug": "challenge-delta-035",
+      "title": "Challenge Delta 035"
+    },
+    {
+      "slug": "challenge-delta-055",
+      "title": "Challenge Delta 055"
+    },
+    {
+      "slug": "challenge-delta-075",
+      "title": "Challenge Delta 075"
+    },
+    {
+      "slug": "challenge-delta-095",
+      "title": "Challenge Delta 095"
+    },
+    {
+      "slug": "challenge-delta-135",
+      "title": "Challenge Delta 135"
+    },
+    {
+      "slug": "challenge-delta-155",
+      "title": "Challenge Delta 155"
+    },
+    {
+      "slug": "challenge-delta-175",
+      "title": "Challenge Delta 175"
+    },
+    {
+      "slug": "challenge-delta-195",
+      "title": "Challenge Delta 195"
+    },
+    {
+      "slug": "challenge-forge-018",
+      "title": "Challenge Forge 018"
+    },
+    {
+      "slug": "challenge-forge-038",
+      "title": "Challenge Forge 038"
+    },
+    {
+      "slug": "challenge-forge-058",
+      "title": "Challenge Forge 058"
+    },
+    {
+      "slug": "challenge-forge-078",
+      "title": "Challenge Forge 078"
+    },
+    {
+      "slug": "challenge-forge-098",
+      "title": "Challenge Forge 098"
+    },
+    {
+      "slug": "challenge-forge-118",
+      "title": "Challenge Forge 118"
+    },
+    {
+      "slug": "challenge-forge-138",
+      "title": "Challenge Forge 138"
+    },
+    {
+      "slug": "challenge-forge-158",
+      "title": "Challenge Forge 158"
+    },
+    {
+      "slug": "challenge-forge-178",
+      "title": "Challenge Forge 178"
+    },
+    {
+      "slug": "challenge-forge-198",
+      "title": "Challenge Forge 198"
+    },
+    {
+      "slug": "challenge-jungle-008",
+      "title": "Challenge Jungle 008"
+    },
+    {
+      "slug": "challenge-jungle-028",
+      "title": "Challenge Jungle 028"
+    },
+    {
+      "slug": "challenge-jungle-048",
+      "title": "Challenge Jungle 048"
+    },
+    {
+      "slug": "challenge-jungle-068",
+      "title": "Challenge Jungle 068"
+    },
+    {
+      "slug": "challenge-jungle-088",
+      "title": "Challenge Jungle 088"
+    },
+    {
+      "slug": "challenge-jungle-108",
+      "title": "Challenge Jungle 108"
+    },
+    {
+      "slug": "challenge-jungle-128",
+      "title": "Challenge Jungle 128"
+    },
+    {
+      "slug": "challenge-jungle-168",
+      "title": "Challenge Jungle 168"
+    },
+    {
+      "slug": "challenge-jungle-188",
+      "title": "Challenge Jungle 188"
+    },
+    {
+      "slug": "challenge-kernel-030",
+      "title": "Challenge Kernel 030"
+    },
+    {
+      "slug": "challenge-kernel-050",
+      "title": "Challenge Kernel 050"
+    },
+    {
+      "slug": "challenge-kernel-070",
+      "title": "Challenge Kernel 070"
+    },
+    {
+      "slug": "challenge-kernel-090",
+      "title": "Challenge Kernel 090"
+    },
+    {
+      "slug": "challenge-kernel-110",
+      "title": "Challenge Kernel 110"
+    },
+    {
+      "slug": "challenge-kernel-130",
+      "title": "Challenge Kernel 130"
+    },
+    {
+      "slug": "challenge-kernel-150",
+      "title": "Challenge Kernel 150"
+    },
+    {
+      "slug": "challenge-kernel-190",
+      "title": "Challenge Kernel 190"
+    },
+    {
+      "slug": "challenge-matrix-006",
+      "title": "Challenge Matrix 006"
+    },
+    {
+      "slug": "challenge-matrix-026",
+      "title": "Challenge Matrix 026"
+    },
+    {
+      "slug": "challenge-matrix-046",
+      "title": "Challenge Matrix 046"
+    },
+    {
+      "slug": "challenge-matrix-066",
+      "title": "Challenge Matrix 066"
+    },
+    {
+      "slug": "challenge-matrix-086",
+      "title": "Challenge Matrix 086"
+    },
+    {
+      "slug": "challenge-matrix-126",
+      "title": "Challenge Matrix 126"
+    },
+    {
+      "slug": "challenge-matrix-146",
+      "title": "Challenge Matrix 146"
+    },
+    {
+      "slug": "challenge-matrix-166",
+      "title": "Challenge Matrix 166"
+    },
+    {
+      "slug": "challenge-matrix-186",
+      "title": "Challenge Matrix 186"
+    },
+    {
+      "slug": "challenge-nebula-004",
+      "title": "Challenge Nebula 004"
+    },
+    {
+      "slug": "challenge-nebula-024",
+      "title": "Challenge Nebula 024"
+    },
+    {
+      "slug": "challenge-nebula-044",
+      "title": "Challenge Nebula 044"
+    },
+    {
+      "slug": "challenge-nebula-064",
+      "title": "Challenge Nebula 064"
+    },
+    {
+      "slug": "challenge-nebula-104",
+      "title": "Challenge Nebula 104"
+    },
+    {
+      "slug": "challenge-nebula-124",
+      "title": "Challenge Nebula 124"
+    },
+    {
+      "slug": "challenge-nebula-144",
+      "title": "Challenge Nebula 144"
+    },
+    {
+      "slug": "challenge-nebula-164",
+      "title": "Challenge Nebula 164"
+    },
+    {
+      "slug": "challenge-nebula-184",
+      "title": "Challenge Nebula 184"
+    },
+    {
+      "slug": "challenge-nova-020",
+      "title": "Challenge Nova 020"
+    },
+    {
+      "slug": "challenge-nova-040",
+      "title": "Challenge Nova 040"
+    },
+    {
+      "slug": "challenge-nova-060",
+      "title": "Challenge Nova 060"
+    },
+    {
+      "slug": "challenge-nova-080",
+      "title": "Challenge Nova 080"
+    },
+    {
+      "slug": "challenge-nova-100",
+      "title": "Challenge Nova 100"
+    },
+    {
+      "slug": "challenge-nova-120",
+      "title": "Challenge Nova 120"
+    },
+    {
+      "slug": "challenge-nova-140",
+      "title": "Challenge Nova 140"
+    },
+    {
+      "slug": "challenge-nova-160",
+      "title": "Challenge Nova 160"
+    },
+    {
+      "slug": "challenge-nova-180",
+      "title": "Challenge Nova 180"
+    },
+    {
+      "slug": "challenge-nova-200",
+      "title": "Challenge Nova 200"
+    },
+    {
+      "slug": "challenge-omega-016",
+      "title": "Challenge Omega 016"
+    },
+    {
+      "slug": "challenge-omega-036",
+      "title": "Challenge Omega 036"
+    },
+    {
+      "slug": "challenge-omega-056",
+      "title": "Challenge Omega 056"
+    },
+    {
+      "slug": "challenge-omega-076",
+      "title": "Challenge Omega 076"
+    },
+    {
+      "slug": "challenge-omega-096",
+      "title": "Challenge Omega 096"
+    },
+    {
+      "slug": "challenge-omega-116",
+      "title": "Challenge Omega 116"
+    },
+    {
+      "slug": "challenge-omega-136",
+      "title": "Challenge Omega 136"
+    },
+    {
+      "slug": "challenge-omega-156",
+      "title": "Challenge Omega 156"
+    },
+    {
+      "slug": "challenge-omega-176",
+      "title": "Challenge Omega 176"
+    },
+    {
+      "slug": "challenge-omega-196",
+      "title": "Challenge Omega 196"
+    },
+    {
+      "slug": "challenge-orbit-013",
+      "title": "Challenge Orbit 013"
+    },
+    {
+      "slug": "challenge-orbit-033",
+      "title": "Challenge Orbit 033"
+    },
+    {
+      "slug": "challenge-orbit-053",
+      "title": "Challenge Orbit 053"
+    },
+    {
+      "slug": "challenge-orbit-073",
+      "title": "Challenge Orbit 073"
+    },
+    {
+      "slug": "challenge-orbit-113",
+      "title": "Challenge Orbit 113"
+    },
+    {
+      "slug": "challenge-orbit-133",
+      "title": "Challenge Orbit 133"
+    },
+    {
+      "slug": "challenge-orbit-153",
+      "title": "Challenge Orbit 153"
+    },
+    {
+      "slug": "challenge-orbit-173",
+      "title": "Challenge Orbit 173"
+    },
+    {
+      "slug": "challenge-orbit-193",
+      "title": "Challenge Orbit 193"
+    },
+    {
+      "slug": "challenge-plasma-011",
+      "title": "Challenge Plasma 011"
+    },
+    {
+      "slug": "challenge-plasma-051",
+      "title": "Challenge Plasma 051"
+    },
+    {
+      "slug": "challenge-plasma-071",
+      "title": "Challenge Plasma 071"
+    },
+    {
+      "slug": "challenge-plasma-091",
+      "title": "Challenge Plasma 091"
+    },
+    {
+      "slug": "challenge-plasma-111",
+      "title": "Challenge Plasma 111"
+    },
+    {
+      "slug": "challenge-plasma-131",
+      "title": "Challenge Plasma 131"
+    },
+    {
+      "slug": "challenge-plasma-151",
+      "title": "Challenge Plasma 151"
+    },
+    {
+      "slug": "challenge-plasma-171",
+      "title": "Challenge Plasma 171"
+    },
+    {
+      "slug": "challenge-plasma-191",
+      "title": "Challenge Plasma 191"
+    },
+    {
+      "slug": "challenge-quantum-003",
+      "title": "Challenge Quantum 003"
+    },
+    {
+      "slug": "challenge-quantum-023",
+      "title": "Challenge Quantum 023"
+    },
+    {
+      "slug": "challenge-quantum-043",
+      "title": "Challenge Quantum 043"
+    },
+    {
+      "slug": "challenge-quantum-063",
+      "title": "Challenge Quantum 063"
+    },
+    {
+      "slug": "challenge-quantum-083",
+      "title": "Challenge Quantum 083"
+    },
+    {
+      "slug": "challenge-quantum-123",
+      "title": "Challenge Quantum 123"
+    },
+    {
+      "slug": "challenge-quantum-143",
+      "title": "Challenge Quantum 143"
+    },
+    {
+      "slug": "challenge-quantum-163",
+      "title": "Challenge Quantum 163"
+    },
+    {
+      "slug": "challenge-quantum-183",
+      "title": "Challenge Quantum 183"
+    },
+    {
+      "slug": "challenge-riddle-017",
+      "title": "Challenge Riddle 017"
+    },
+    {
+      "slug": "challenge-riddle-037",
+      "title": "Challenge Riddle 037"
+    },
+    {
+      "slug": "challenge-riddle-057",
+      "title": "Challenge Riddle 057"
+    },
+    {
+      "slug": "challenge-riddle-077",
+      "title": "Challenge Riddle 077"
+    },
+    {
+      "slug": "challenge-riddle-097",
+      "title": "Challenge Riddle 097"
+    },
+    {
+      "slug": "challenge-riddle-117",
+      "title": "Challenge Riddle 117"
+    },
+    {
+      "slug": "challenge-riddle-137",
+      "title": "Challenge Riddle 137"
+    },
+    {
+      "slug": "challenge-riddle-157",
+      "title": "Challenge Riddle 157"
+    },
+    {
+      "slug": "challenge-riddle-177",
+      "title": "Challenge Riddle 177"
+    },
+    {
+      "slug": "challenge-riddle-197",
+      "title": "Challenge Riddle 197"
+    },
+    {
+      "slug": "challenge-rocket-007",
+      "title": "Challenge Rocket 007"
+    },
+    {
+      "slug": "challenge-rocket-027",
+      "title": "Challenge Rocket 027"
+    },
+    {
+      "slug": "challenge-rocket-047",
+      "title": "Challenge Rocket 047"
+    },
+    {
+      "slug": "challenge-rocket-067",
+      "title": "Challenge Rocket 067"
+    },
+    {
+      "slug": "challenge-rocket-087",
+      "title": "Challenge Rocket 087"
+    },
+    {
+      "slug": "challenge-rocket-107",
+      "title": "Challenge Rocket 107"
+    },
+    {
+      "slug": "challenge-rocket-127",
+      "title": "Challenge Rocket 127"
+    },
+    {
+      "slug": "challenge-rocket-147",
+      "title": "Challenge Rocket 147"
+    },
+    {
+      "slug": "challenge-rocket-167",
+      "title": "Challenge Rocket 167"
+    },
+    {
+      "slug": "challenge-rocket-187",
+      "title": "Challenge Rocket 187"
+    },
+    {
+      "slug": "challenge-signal-005",
+      "title": "Challenge Signal 005"
+    },
+    {
+      "slug": "challenge-signal-025",
+      "title": "Challenge Signal 025"
+    },
+    {
+      "slug": "challenge-signal-045",
+      "title": "Challenge Signal 045"
+    },
+    {
+      "slug": "challenge-signal-065",
+      "title": "Challenge Signal 065"
+    },
+    {
+      "slug": "challenge-signal-085",
+      "title": "Challenge Signal 085"
+    },
+    {
+      "slug": "challenge-signal-105",
+      "title": "Challenge Signal 105"
+    },
+    {
+      "slug": "challenge-signal-125",
+      "title": "Challenge Signal 125"
+    },
+    {
+      "slug": "challenge-signal-145",
+      "title": "Challenge Signal 145"
+    },
+    {
+      "slug": "challenge-signal-165",
+      "title": "Challenge Signal 165"
+    },
+    {
+      "slug": "challenge-signal-185",
+      "title": "Challenge Signal 185"
+    },
+    {
+      "slug": "challenge-vector-001",
+      "title": "Challenge Vector 001"
+    },
+    {
+      "slug": "challenge-vector-021",
+      "title": "Challenge Vector 021"
+    },
+    {
+      "slug": "challenge-vector-041",
+      "title": "Challenge Vector 041"
+    },
+    {
+      "slug": "challenge-vector-061",
+      "title": "Challenge Vector 061"
+    },
+    {
+      "slug": "challenge-vector-101",
+      "title": "Challenge Vector 101"
+    },
+    {
+      "slug": "challenge-vector-121",
+      "title": "Challenge Vector 121"
+    },
+    {
+      "slug": "challenge-vector-141",
+      "title": "Challenge Vector 141"
+    },
+    {
+      "slug": "challenge-vector-161",
+      "title": "Challenge Vector 161"
+    },
+    {
+      "slug": "challenge-vector-181",
+      "title": "Challenge Vector 181"
+    },
+    {
+      "slug": "circuit-trace",
+      "title": "Circuit Trace"
+    },
+    {
+      "slug": "color-match",
+      "title": "Color Match"
+    },
+    {
+      "slug": "crypt-raider",
+      "title": "Crypt Raider"
+    },
+    {
+      "slug": "cryptic-cross",
+      "title": "Cryptic Cross"
+    },
+    {
+      "slug": "deck-duel",
+      "title": "Deck Duel"
+    },
+    {
+      "slug": "definition-duel",
+      "title": "Definition Duel"
+    },
+    {
+      "slug": "emoji-bingo",
+      "title": "Emoji Bingo"
+    },
+    {
+      "slug": "emoji-charades",
+      "title": "Emoji Charades"
+    },
+    {
+      "slug": "emoji-heist",
+      "title": "Emoji Heist"
+    },
+    {
+      "slug": "extreme/ascension",
+      "title": "Ascension"
+    },
+    {
+      "slug": "factory-flow",
+      "title": "Factory Flow"
+    },
+    {
+      "slug": "fast-math",
+      "title": "Fast Math"
+    },
+    {
+      "slug": "finish-quote",
+      "title": "Finish Quote"
+    },
+    {
+      "slug": "flag-forge",
+      "title": "Flag Forge"
+    },
+    {
+      "slug": "formula-fix",
+      "title": "Formula Fix"
+    },
+    {
+      "slug": "geo-quick",
+      "title": "Geo Quick"
+    },
+    {
+      "slug": "geo-typo",
+      "title": "Geo Typo"
+    },
+    {
+      "slug": "grapple-run",
+      "title": "Grapple Run"
+    },
+    {
+      "slug": "hex-conquest",
+      "title": "Hex Conquest"
+    },
+    {
+      "slug": "island-count",
+      "title": "Island Count"
+    },
+    {
+      "slug": "kakuro",
+      "title": "Kakuro"
+    },
+    {
+      "slug": "killer-sudoku",
+      "title": "Killer Sudoku"
+    },
+    {
+      "slug": "lights-out",
+      "title": "Lights Out"
+    },
+    {
+      "slug": "memory-flip",
+      "title": "Memory Flip"
+    },
+    {
+      "slug": "memory-labyrinth",
+      "title": "Memory Labyrinth"
+    },
+    {
+      "slug": "micro-crossword",
+      "title": "Micro Crossword"
+    },
+    {
+      "slug": "mirror-dash",
+      "title": "Mirror Dash"
+    },
+    {
+      "slug": "nano-colony",
+      "title": "Nano Colony"
+    },
+    {
+      "slug": "nonogram",
+      "title": "Nonogram"
+    },
+    {
+      "slug": "one-click-tag",
+      "title": "One Click Tag"
+    },
+    {
+      "slug": "orbital-catch",
+      "title": "Orbital Catch"
+    },
+    {
+      "slug": "palette-pilot",
+      "title": "Palette Pilot"
+    },
+    {
+      "slug": "pathfinder",
+      "title": "Pathfinder"
+    },
+    {
+      "slug": "pattern-prophet",
+      "title": "Pattern Prophet"
+    },
+    {
+      "slug": "pixel-zoom",
+      "title": "Pixel Zoom"
+    },
+    {
+      "slug": "portal-putter",
+      "title": "Portal Putter"
+    },
+    {
+      "slug": "post-a-pic",
+      "title": "Post A Pic"
+    },
+    {
+      "slug": "pricing",
+      "title": "Pricing"
+    },
+    {
+      "slug": "quick-poll-duel",
+      "title": "Quick Poll Duel"
+    },
+    {
+      "slug": "quote-cipher",
+      "title": "Quote Cipher"
+    },
+    {
+      "slug": "reaction-streaks",
+      "title": "Reaction Streaks"
+    },
+    {
+      "slug": "reaction-test",
+      "title": "Reaction Test"
+    },
+    {
+      "slug": "reflex-gauntlet",
+      "title": "Reflex Gauntlet"
+    },
+    {
+      "slug": "relic-run",
+      "title": "Relic Run"
+    },
+    {
+      "slug": "rhythm-reactor",
+      "title": "Rhythm Reactor"
+    },
+    {
+      "slug": "riddle",
+      "title": "Riddle"
+    },
+    {
+      "slug": "river-crossing",
+      "title": "River Crossing"
+    },
+    {
+      "slug": "rogue-riddle",
+      "title": "Rogue Riddle"
+    },
+    {
+      "slug": "rps",
+      "title": "Rps"
+    },
+    {
+      "slug": "rush-hour",
+      "title": "Rush Hour"
+    },
+    {
+      "slug": "scramble-caption",
+      "title": "Scramble Caption"
+    },
+    {
+      "slug": "signal-jam",
+      "title": "Signal Jam"
+    },
+    {
+      "slug": "sound-bite",
+      "title": "Sound Bite"
+    },
+    {
+      "slug": "sound-match",
+      "title": "Sound Match"
+    },
+    {
+      "slug": "stacksmith",
+      "title": "Stacksmith"
+    },
+    {
+      "slug": "sticker-toss",
+      "title": "Sticker Toss"
+    },
+    {
+      "slug": "tap-dueler",
+      "title": "Tap Dueler"
+    },
+    {
+      "slug": "tap-race",
+      "title": "Tap Race"
+    },
+    {
+      "slug": "tetrio-logic",
+      "title": "Tetrio Logic"
+    },
+    {
+      "slug": "time-splitter",
+      "title": "Time Splitter"
+    },
+    {
+      "slug": "tower-forge",
+      "title": "Tower Forge"
+    },
+    {
+      "slug": "trivia-arena",
+      "title": "Trivia Arena"
+    },
+    {
+      "slug": "trivia-blitz",
+      "title": "Trivia Blitz"
+    },
+    {
+      "slug": "two-truths",
+      "title": "Two Truths"
+    },
+    {
+      "slug": "vector-drift",
+      "title": "Vector Drift"
+    },
+    {
+      "slug": "vector-sniper",
+      "title": "Vector Sniper"
+    },
+    {
+      "slug": "wiki-trail",
+      "title": "Wiki Trail"
+    },
+    {
+      "slug": "word-ladder",
+      "title": "Word Ladder"
+    },
+    {
+      "slug": "word-snap",
+      "title": "Word Snap"
+    },
+    {
+      "slug": "word-snipe",
+      "title": "Word Snipe"
+    },
+    {
+      "slug": "would-you-rather",
+      "title": "Would You Rather"
+    },
+    {
+      "slug": "zoom-id",
+      "title": "Zoom Id"
+    }
+  ]
+}
