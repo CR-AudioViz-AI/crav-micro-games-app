@@ -24,6 +24,11 @@ export default function GamesHub() {
   const [userSession, setUserSession] = useState(createUserSession());
 
   useEffect(() => {
+    console.log('Total games loaded:', GAMES.length);
+    console.log('Filtered games:', filteredGames.length);
+  }, [filteredGames]);
+
+  useEffect(() => {
     filterGames();
   }, [searchTerm, categoryFilter, difficultyFilter, games]);
 
