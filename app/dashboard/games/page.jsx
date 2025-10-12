@@ -8,7 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Settings, ChartBar as BarChart3, Users, Trophy, Crown, Play, Eye, EyeOff, TrendingUp, Calendar } from 'lucide-react';
 import { GAMES, EXTREME_GAME } from '@/lib/games';
 import { FEATURE_FLAGS } from '@/lib/feature-flags';
-
+import GamesStats from '@/components/games/GamesStats';
 
 export default function GamesDashboard() {
   const [userSession] = useState({ userId: null, plan: "FREE" });
@@ -88,6 +88,11 @@ export default function GamesDashboard() {
           </TabsList>
 
           <TabsContent value="overview" className="mt-6">
+            {/* Game Stats - Live from Registry */}
+            <div className="mb-8">
+              <GamesStats autofill showPerCategory={false} />
+            </div>
+
             {/* Key Metrics */}
             <div className="grid md:grid-cols-5 gap-6 mb-8">
               <Card>
