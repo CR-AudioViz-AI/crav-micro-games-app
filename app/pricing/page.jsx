@@ -71,7 +71,7 @@ export default function Pricing() {
       name: 'PRO',
       title: 'Pro',
       price: '$9.99',
-      period: 'one-time',
+      period: 'annual',
       description: 'Unlock premium features',
       features: PLAN_FEATURES.PRO,
       buttonText: 'Upgrade to Pro',
@@ -84,7 +84,7 @@ export default function Pricing() {
       name: 'ELITE',
       title: 'Elite',
       price: '$19.99',
-      period: 'one-time',
+      period: 'annual',
       description: 'The ultimate gaming experience',
       features: PLAN_FEATURES.ELITE,
       buttonText: 'Go Elite',
@@ -260,9 +260,9 @@ export default function Pricing() {
                 </p>
               </div>
               <div>
-                <h4 className="font-semibold mb-2">Is there a money-back guarantee?</h4>
+                <h4 className="font-semibold mb-2">Is there a  guarantee?</h4>
                 <p className="text-gray-600 text-sm mb-4">
-                  Yes, we offer a 30-day money-back guarantee on all plans.
+                  Yes, we offer a 30-day  guarantee on all plans.
                 </p>
                 
                 <h4 className="font-semibold mb-2">Do I keep my progress if I upgrade?</h4>

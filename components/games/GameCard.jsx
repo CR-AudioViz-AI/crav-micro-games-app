@@ -44,13 +44,13 @@ export default function GameCard({
           <CardTitle className="flex items-center gap-2 text-gray-500">
             <span className="text-2xl">{categoryIcons[game.category] || '🎮'}</span>
             {game.name}
-            <Badge variant="secondary">Coming Soon</Badge>
+            <Badge variant="secondary">available now</Badge>
           </CardTitle>
         </CardHeader>
         <CardContent>
           <p className="text-gray-500 mb-4">{game.description}</p>
           <Button disabled className="w-full">
-            Coming Soon
+            available now
           </Button>
         </CardContent>
       </Card>

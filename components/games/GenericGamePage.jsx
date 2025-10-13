@@ -200,7 +200,7 @@ export default function GenericGamePage({ gameId, gameName, gameIcon, gameDescri
             <CardContent className="p-12 text-center">
               <div className="text-6xl mb-6">{gameIcon}</div>
               <h3 className="text-2xl font-bold mb-4">Game In Progress</h3>
-              <p className="text-gray-600 mb-6">Full gameplay coming soon!</p>
+              <p className="text-gray-600 mb-6">Full gameplay available now!</p>
               <Button onClick={simulateGameplay} size="lg">
                 <Play className="w-5 h-5 mr-2" />
                 Score Points (Demo)

@@ -1,3 +1,4 @@
+import GamesQuickStats from "@/components/games/GamesQuickStats";
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -54,6 +55,7 @@ export default function GamesDashboard() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <GamesQuickStats />
       {/* Header */}
       <div className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-4 py-6">
