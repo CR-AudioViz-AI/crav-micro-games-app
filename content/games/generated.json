@@ -53,6 +53,18 @@
       "title": "Challenge Atlas 179"
     },
     {
+      "slug": "challenge-atlas-229",
+      "title": "Challenge Atlas 229"
+    },
+    {
+      "slug": "challenge-atlas-259",
+      "title": "Challenge Atlas 259"
+    },
+    {
+      "slug": "challenge-atlas-289",
+      "title": "Challenge Atlas 289"
+    },
+    {
       "slug": "challenge-aurora-009",
       "title": "Challenge Aurora 009"
     },
@@ -93,6 +105,34 @@
       "title": "Challenge Aurora 189"
     },
     {
+      "slug": "challenge-aurora-219",
+      "title": "Challenge Aurora 219"
+    },
+    {
+      "slug": "challenge-aurora-249",
+      "title": "Challenge Aurora 249"
+    },
+    {
+      "slug": "challenge-aurora-279",
+      "title": "Challenge Aurora 279"
+    },
+    {
+      "slug": "challenge-axiom-208",
+      "title": "Challenge Axiom 208"
+    },
+    {
+      "slug": "challenge-axiom-238",
+      "title": "Challenge Axiom 238"
+    },
+    {
+      "slug": "challenge-axiom-268",
+      "title": "Challenge Axiom 268"
+    },
+    {
+      "slug": "challenge-axiom-298",
+      "title": "Challenge Axiom 298"
+    },
+    {
       "slug": "challenge-cipher-002",
       "title": "Challenge Cipher 002"
     },
@@ -127,6 +167,18 @@
     {
       "slug": "challenge-cipher-182",
       "title": "Challenge Cipher 182"
+    },
+    {
+      "slug": "challenge-cipher-212",
+      "title": "Challenge Cipher 212"
+    },
+    {
+      "slug": "challenge-cipher-242",
+      "title": "Challenge Cipher 242"
+    },
+    {
+      "slug": "challenge-cipher-272",
+      "title": "Challenge Cipher 272"
     },
     {
       "slug": "challenge-cobalt-012",
@@ -165,6 +217,18 @@
       "title": "Challenge Cobalt 192"
     },
     {
+      "slug": "challenge-cobalt-222",
+      "title": "Challenge Cobalt 222"
+    },
+    {
+      "slug": "challenge-cobalt-252",
+      "title": "Challenge Cobalt 252"
+    },
+    {
+      "slug": "challenge-cobalt-282",
+      "title": "Challenge Cobalt 282"
+    },
+    {
       "slug": "challenge-cosmic-014",
       "title": "Challenge Cosmic 014"
     },
@@ -201,6 +265,18 @@
       "title": "Challenge Cosmic 194"
     },
     {
+      "slug": "challenge-cosmic-224",
+      "title": "Challenge Cosmic 224"
+    },
+    {
+      "slug": "challenge-cosmic-254",
+      "title": "Challenge Cosmic 254"
+    },
+    {
+      "slug": "challenge-cosmic-284",
+      "title": "Challenge Cosmic 284"
+    },
+    {
       "slug": "challenge-delta-015",
       "title": "Challenge Delta 015"
     },
@@ -235,6 +311,34 @@
     {
       "slug": "challenge-delta-195",
       "title": "Challenge Delta 195"
+    },
+    {
+      "slug": "challenge-delta-225",
+      "title": "Challenge Delta 225"
+    },
+    {
+      "slug": "challenge-delta-255",
+      "title": "Challenge Delta 255"
+    },
+    {
+      "slug": "challenge-delta-285",
+      "title": "Challenge Delta 285"
+    },
+    {
+      "slug": "challenge-echo-210",
+      "title": "Challenge Echo 210"
+    },
+    {
+      "slug": "challenge-echo-240",
+      "title": "Challenge Echo 240"
+    },
+    {
+      "slug": "challenge-echo-270",
+      "title": "Challenge Echo 270"
+    },
+    {
+      "slug": "challenge-echo-300",
+      "title": "Challenge Echo 300"
     },
     {
       "slug": "challenge-forge-018",
@@ -277,6 +381,18 @@
       "title": "Challenge Forge 198"
     },
     {
+      "slug": "challenge-forge-228",
+      "title": "Challenge Forge 228"
+    },
+    {
+      "slug": "challenge-forge-258",
+      "title": "Challenge Forge 258"
+    },
+    {
+      "slug": "challenge-forge-288",
+      "title": "Challenge Forge 288"
+    },
+    {
       "slug": "challenge-jungle-008",
       "title": "Challenge Jungle 008"
     },
@@ -313,6 +429,18 @@
       "title": "Challenge Jungle 188"
     },
     {
+      "slug": "challenge-jungle-218",
+      "title": "Challenge Jungle 218"
+    },
+    {
+      "slug": "challenge-jungle-248",
+      "title": "Challenge Jungle 248"
+    },
+    {
+      "slug": "challenge-jungle-278",
+      "title": "Challenge Jungle 278"
+    },
+    {
       "slug": "challenge-kernel-030",
       "title": "Challenge Kernel 030"
     },
@@ -343,6 +471,50 @@
     {
       "slug": "challenge-kernel-190",
       "title": "Challenge Kernel 190"
+    },
+    {
+      "slug": "challenge-kernel-220",
+      "title": "Challenge Kernel 220"
+    },
+    {
+      "slug": "challenge-kernel-250",
+      "title": "Challenge Kernel 250"
+    },
+    {
+      "slug": "challenge-kernel-280",
+      "title": "Challenge Kernel 280"
+    },
+    {
+      "slug": "challenge-lumen-207",
+      "title": "Challenge Lumen 207"
+    },
+    {
+      "slug": "challenge-lumen-237",
+      "title": "Challenge Lumen 237"
+    },
+    {
+      "slug": "challenge-lumen-267",
+      "title": "Challenge Lumen 267"
+    },
+    {
+      "slug": "challenge-lumen-297",
+      "title": "Challenge Lumen 297"
+    },
+    {
+      "slug": "challenge-lyra-201",
+      "title": "Challenge Lyra 201"
+    },
+    {
+      "slug": "challenge-lyra-231",
+      "title": "Challenge Lyra 231"
+    },
+    {
+      "slug": "challenge-lyra-261",
+      "title": "Challenge Lyra 261"
+    },
+    {
+      "slug": "challenge-lyra-291",
+      "title": "Challenge Lyra 291"
     },
     {
       "slug": "challenge-matrix-006",
@@ -381,6 +553,18 @@
       "title": "Challenge Matrix 186"
     },
     {
+      "slug": "challenge-matrix-216",
+      "title": "Challenge Matrix 216"
+    },
+    {
+      "slug": "challenge-matrix-246",
+      "title": "Challenge Matrix 246"
+    },
+    {
+      "slug": "challenge-matrix-276",
+      "title": "Challenge Matrix 276"
+    },
+    {
       "slug": "challenge-nebula-004",
       "title": "Challenge Nebula 004"
     },
@@ -415,6 +599,18 @@
     {
       "slug": "challenge-nebula-184",
       "title": "Challenge Nebula 184"
+    },
+    {
+      "slug": "challenge-nebula-214",
+      "title": "Challenge Nebula 214"
+    },
+    {
+      "slug": "challenge-nebula-244",
+      "title": "Challenge Nebula 244"
+    },
+    {
+      "slug": "challenge-nebula-274",
+      "title": "Challenge Nebula 274"
     },
     {
       "slug": "challenge-nova-020",
@@ -457,6 +653,18 @@
       "title": "Challenge Nova 200"
     },
     {
+      "slug": "challenge-nova-230",
+      "title": "Challenge Nova 230"
+    },
+    {
+      "slug": "challenge-nova-260",
+      "title": "Challenge Nova 260"
+    },
+    {
+      "slug": "challenge-nova-290",
+      "title": "Challenge Nova 290"
+    },
+    {
       "slug": "challenge-omega-016",
       "title": "Challenge Omega 016"
     },
@@ -497,6 +705,34 @@
       "title": "Challenge Omega 196"
     },
     {
+      "slug": "challenge-omega-226",
+      "title": "Challenge Omega 226"
+    },
+    {
+      "slug": "challenge-omega-256",
+      "title": "Challenge Omega 256"
+    },
+    {
+      "slug": "challenge-omega-286",
+      "title": "Challenge Omega 286"
+    },
+    {
+      "slug": "challenge-onyx-203",
+      "title": "Challenge Onyx 203"
+    },
+    {
+      "slug": "challenge-onyx-233",
+      "title": "Challenge Onyx 233"
+    },
+    {
+      "slug": "challenge-onyx-263",
+      "title": "Challenge Onyx 263"
+    },
+    {
+      "slug": "challenge-onyx-293",
+      "title": "Challenge Onyx 293"
+    },
+    {
       "slug": "challenge-orbit-013",
       "title": "Challenge Orbit 013"
     },
@@ -531,6 +767,34 @@
     {
       "slug": "challenge-orbit-193",
       "title": "Challenge Orbit 193"
+    },
+    {
+      "slug": "challenge-orbit-223",
+      "title": "Challenge Orbit 223"
+    },
+    {
+      "slug": "challenge-orbit-253",
+      "title": "Challenge Orbit 253"
+    },
+    {
+      "slug": "challenge-orbit-283",
+      "title": "Challenge Orbit 283"
+    },
+    {
+      "slug": "challenge-phoenix-202",
+      "title": "Challenge Phoenix 202"
+    },
+    {
+      "slug": "challenge-phoenix-232",
+      "title": "Challenge Phoenix 232"
+    },
+    {
+      "slug": "challenge-phoenix-262",
+      "title": "Challenge Phoenix 262"
+    },
+    {
+      "slug": "challenge-phoenix-292",
+      "title": "Challenge Phoenix 292"
     },
     {
       "slug": "challenge-plasma-011",
@@ -569,6 +833,34 @@
       "title": "Challenge Plasma 191"
     },
     {
+      "slug": "challenge-plasma-221",
+      "title": "Challenge Plasma 221"
+    },
+    {
+      "slug": "challenge-plasma-251",
+      "title": "Challenge Plasma 251"
+    },
+    {
+      "slug": "challenge-plasma-281",
+      "title": "Challenge Plasma 281"
+    },
+    {
+      "slug": "challenge-prime-209",
+      "title": "Challenge Prime 209"
+    },
+    {
+      "slug": "challenge-prime-239",
+      "title": "Challenge Prime 239"
+    },
+    {
+      "slug": "challenge-prime-269",
+      "title": "Challenge Prime 269"
+    },
+    {
+      "slug": "challenge-prime-299",
+      "title": "Challenge Prime 299"
+    },
+    {
       "slug": "challenge-quantum-003",
       "title": "Challenge Quantum 003"
     },
@@ -603,6 +895,18 @@
     {
       "slug": "challenge-quantum-183",
       "title": "Challenge Quantum 183"
+    },
+    {
+      "slug": "challenge-quantum-213",
+      "title": "Challenge Quantum 213"
+    },
+    {
+      "slug": "challenge-quantum-243",
+      "title": "Challenge Quantum 243"
+    },
+    {
+      "slug": "challenge-quantum-273",
+      "title": "Challenge Quantum 273"
     },
     {
       "slug": "challenge-riddle-017",
@@ -645,6 +949,18 @@
       "title": "Challenge Riddle 197"
     },
     {
+      "slug": "challenge-riddle-227",
+      "title": "Challenge Riddle 227"
+    },
+    {
+      "slug": "challenge-riddle-257",
+      "title": "Challenge Riddle 257"
+    },
+    {
+      "slug": "challenge-riddle-287",
+      "title": "Challenge Riddle 287"
+    },
+    {
       "slug": "challenge-rocket-007",
       "title": "Challenge Rocket 007"
     },
@@ -683,6 +999,18 @@
     {
       "slug": "challenge-rocket-187",
       "title": "Challenge Rocket 187"
+    },
+    {
+      "slug": "challenge-rocket-217",
+      "title": "Challenge Rocket 217"
+    },
+    {
+      "slug": "challenge-rocket-247",
+      "title": "Challenge Rocket 247"
+    },
+    {
+      "slug": "challenge-rocket-277",
+      "title": "Challenge Rocket 277"
     },
     {
       "slug": "challenge-signal-005",
@@ -725,6 +1053,50 @@
       "title": "Challenge Signal 185"
     },
     {
+      "slug": "challenge-signal-215",
+      "title": "Challenge Signal 215"
+    },
+    {
+      "slug": "challenge-signal-245",
+      "title": "Challenge Signal 245"
+    },
+    {
+      "slug": "challenge-signal-275",
+      "title": "Challenge Signal 275"
+    },
+    {
+      "slug": "challenge-terra-206",
+      "title": "Challenge Terra 206"
+    },
+    {
+      "slug": "challenge-terra-236",
+      "title": "Challenge Terra 236"
+    },
+    {
+      "slug": "challenge-terra-266",
+      "title": "Challenge Terra 266"
+    },
+    {
+      "slug": "challenge-terra-296",
+      "title": "Challenge Terra 296"
+    },
+    {
+      "slug": "challenge-titan-204",
+      "title": "Challenge Titan 204"
+    },
+    {
+      "slug": "challenge-titan-234",
+      "title": "Challenge Titan 234"
+    },
+    {
+      "slug": "challenge-titan-264",
+      "title": "Challenge Titan 264"
+    },
+    {
+      "slug": "challenge-titan-294",
+      "title": "Challenge Titan 294"
+    },
+    {
       "slug": "challenge-vector-001",
       "title": "Challenge Vector 001"
     },
@@ -759,6 +1131,34 @@
     {
       "slug": "challenge-vector-181",
       "title": "Challenge Vector 181"
+    },
+    {
+      "slug": "challenge-vector-211",
+      "title": "Challenge Vector 211"
+    },
+    {
+      "slug": "challenge-vector-241",
+      "title": "Challenge Vector 241"
+    },
+    {
+      "slug": "challenge-vector-271",
+      "title": "Challenge Vector 271"
+    },
+    {
+      "slug": "challenge-zephyr-205",
+      "title": "Challenge Zephyr 205"
+    },
+    {
+      "slug": "challenge-zephyr-235",
+      "title": "Challenge Zephyr 235"
+    },
+    {
+      "slug": "challenge-zephyr-265",
+      "title": "Challenge Zephyr 265"
+    },
+    {
+      "slug": "challenge-zephyr-295",
+      "title": "Challenge Zephyr 295"
     },
     {
       "slug": "circuit-trace",
@@ -819,6 +1219,10 @@
     {
       "slug": "formula-fix",
       "title": "Formula Fix"
+    },
+    {
+      "slug": "games",
+      "title": "Games"
     },
     {
       "slug": "geo-quick",
