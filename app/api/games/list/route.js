@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { NextResponse } from 'next/server';
 import { GAMES, EXTREME_GAME } from '@/lib/games';
 import { isFeatureEnabled } from '@/lib/feature-flags';
