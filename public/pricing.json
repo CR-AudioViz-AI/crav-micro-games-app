@@ -1,0 +1,18 @@
+{
+  "brand": "CRAudioVizAI Games",
+  "currency": "USD",
+  "refundPolicy": "no-refunds",
+  "plans": [
+    { "id": "free", "name": "Free", "period": "free", "price": 0, "includedCredits": 0 },
+    { "id": "pro_monthly",   "name": "Pro (Monthly)",   "period": "month", "price": 19, "includedCredits": 150 },
+    { "id": "pro_annual",    "name": "Pro (Annual)",    "period": "year",  "price": 179, "includedCredits": 1800 },
+    { "id": "elite_monthly", "name": "Elite (Monthly)", "period": "month", "price": 34, "includedCredits": 420 },
+    { "id": "elite_annual",  "name": "Elite (Annual)",  "period": "year",  "price": 329, "includedCredits": 5000 }
+  ],
+  "topups": [
+    { "id": "topup_500",  "name": "Top-Up 500",  "price": 9,  "credits": 500 },
+    { "id": "topup_2000", "name": "Top-Up 2000", "price": 29, "credits": 2000 }
+  ],
+  "cancellation": { "policy": "cancel-at-period-end" },
+  "costs": { "premiumSession": 1, "extremeSession": 5 }
+}
