@@ -1,5 +1,6 @@
-import GamesQuickStats from "@/components/games/GamesQuickStats";
 'use client';
+
+import GamesQuickStats from "@/components/games/GamesQuickStats";
 
 import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
